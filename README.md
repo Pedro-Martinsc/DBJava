@@ -1,6 +1,6 @@
 # DB_Connection
-Criando conexao com DB no Java
+Creating connection with DB in Java
 
-Necessario importar o Plugin externo de conexao com SQL no qual ja esta na pasta
+It is necessary to import the external SQL connection plugin which is already in the folder
 
-Apos isso so ler os comentarios no codigo e seguir
+After that, just read the comments in the code and follow
